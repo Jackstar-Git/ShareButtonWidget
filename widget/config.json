@@ -1,0 +1,12 @@
+{
+    "text": "Share this content",
+    "link": "https://example.com/",
+    "shareOptions": [
+        "sms",
+        "whatsapp",
+        "instagram",
+        "X", 
+        "facebook",
+        "email"
+    ]
+}
