@@ -19,9 +19,8 @@ A simple, customizable JavaScript share widget that allows users to share links 
 
 1. **Clone or download** this repository.
 
-2. **Include the following files** in your project directory:
+2. **Include the following file** in your project directory:
    - `widget.js`
-   - `config.json`
 
 3. **Add Font Awesome** (already included via CDN in the widget).
 
@@ -41,7 +40,7 @@ A simple, customizable JavaScript share widget that allows users to share links 
     <script src="widget.js"></script>
     ```
 
-3. **Configure share options** in `config.json`:
+3. **Configure share options** in `widges.js`:
 
     ```json
     {
